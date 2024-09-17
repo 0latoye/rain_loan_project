@@ -1,0 +1,24 @@
+AbdulHakeem : Development and Deployment of an Advanced AI-Driven Loan Approval System, Competing with Leading Platforms such as DataRobot, Zest AI, and Underwrite.AI.
+
+Why is there a need for Ai -loan granting system
+3 main components
+
+Frontend(html, css,javascript)
+Backend(server aspect)??
+Ai algorithm ???
+
+
+-Concept
+
+1. Understanding how loans work ,and their importance
+2. Understanding the loan approval process (Based on what the loan is for, duration of loan agreement)
+
+3. Conditions for loan approvement and rejection. Determine core factors for either
+4. Training model based on dataset to determine loan approval credibility
+5. Countries that are similar to nigeria (economically,size, output, resources) but have an effective loan/credit system
+6. Understand the nigeria loan system and apply such?
+
+
+------------------------------------------------------------------------------
+
+Credit sys
